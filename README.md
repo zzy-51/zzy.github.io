@@ -65,6 +65,8 @@
  <tr>
     <!-- 第1列 -->
      <td>
+         <table>
+             <td>
   <table>
             <tr><td><font color="#40b32e">心理常识 更多 >>></font><HR align=left width=350 color=black SIZE=1></td></tr>
             <tr><td> <img src="心理咨询/img/img.3.png"height="20" width="20" >巧识心理抑郁</td>   </tr>
@@ -74,7 +76,7 @@
             <tr><td> <img src="心理咨询/img/img.3.png"height="20" width="20">人际交往应该避免的三个问题</td>  </tr>
             <tr><td> <img src="心理咨询/img/img.3.png"height="20" width="20">测测你是否心理健康</td>  </tr>
    </table>  
-
+            </td>
    <!-- 第2列 -->
    <td >
 <table >
@@ -85,7 +87,8 @@
              <tr><td> <img src="心理咨询/img/img.3.png"height="20" width="20">7种心理缺陷运动治疗法</td>  </tr>
              <tr><td> <img src="心理咨询/img/img.3.png"height="20" width="20">群体阶段性的心理调节</td>  </tr>
              <tr><td> <img src="心理咨询/img/img.3.png"height="20" width="20">自我心理调节的7中方法</td>  </tr>   
- </table>
+ </table></td>
+   </table>
   </td>      
 
   <!-- 第四行第3列 -->
