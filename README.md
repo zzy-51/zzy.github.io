@@ -34,7 +34,7 @@
     <td colspan="2" >
        <table border="1">
             <tr><td>今日导读 <HR align=left width=850 color=black SIZE=1>   </td></tr>
-         <td > <img src=".\img\img.2.png"height="250" width="350"></td>
+         <td > <img src="心理咨询/img/img.2.png"height="250" width="350"></td>
              
                 <td>
                     <p></p><h5>2012-2013学年第二学期心理咨询安排</h5>为进一步加强我校大学生的心理辅导，更好的为广大同学服务...<font color="red"><详细></font>                      
