@@ -12,7 +12,7 @@
     <table border="0" align="center" bgcolor="white">
     <!-- 第一行 -->
 <tr>
-    <td colspan="3"><img src=".\img\img.1.png"height="300" width="1300"></td>
+    <td colspan="3"><img src="img\img.1.png"height="300" width="1300"></td>
 </tr>
 <!-- 第二行 -->
 <tr bgcolor="#ccc">
