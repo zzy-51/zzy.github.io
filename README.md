@@ -12,7 +12,7 @@
     <table border="0" align="center" bgcolor="white">
     <!-- 第一行 -->
 <tr>
-    <td colspan="3"><img src="D:\心理咨询\img\img.1.png"height="300" width="1300"></td>
+    <td colspan="3"><img src=".\img\img.1.png"height="300" width="1300"></td>
 </tr>
 <!-- 第二行 -->
 <tr bgcolor="#ccc">
@@ -33,8 +33,8 @@
  <tr >
     <td colspan="2" >
        <table >
-            今日导读 <HR align=left width=850 color=black SIZE=1>   
-         <td > <img src="D:\心理咨询\img\img.2.png"height="250" width="350"></td>
+            <tr><td>今日导读 <HR align=left width=850 color=black SIZE=1>   </td></tr>
+         <td > <img src=".\img\img.2.png"height="250" width="350"></td>
              
                 <td>
                     <h5>2012-2013学年第二学期心理咨询安排</h5>为进一步加强我校大学生的心理辅导，更好的为广大同学服务...                      
@@ -49,13 +49,13 @@
         <table border="0" rules="none" >
                 <tr><td><pre></pre></td></tr>
                 <tr><td> <font color="#40b32e">中心动态 更多>>></font><HR align=left width=350 color=black SIZE=0>  </td></tr>
-                <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20" >我校第七届大学生心理健康教育宣传月开幕</td>   </tr>
-                <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20">河南中医学院第七届心理健康教育宣传月...</td>  </tr>
-                <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20">2012-2013学年第一学期心理咨询时....</td>  </tr>
-                <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20">我校第六届大学生心理健康教育宣传月活动圆..</td>  </tr>
-                <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20">我校第六届大学生心理健康教育宣传月开幕..</td>  </tr>
-                <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20">2010-2011学年第二学期心理咨询时...</td>  </tr>
-                <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20">我校2010级新生心理测评工作圆满结束</td>  </tr>
+                <tr><td> <img src=".\img\img.3.png"height="20" width="20" >我校第七届大学生心理健康教育宣传月开幕</td>   </tr>
+                <tr><td> <img src=".\img\img.3.png"height="20" width="20">河南中医学院第七届心理健康教育宣传月...</td>  </tr>
+                <tr><td> <img src=".\img\img.3.png"height="20" width="20">2012-2013学年第一学期心理咨询时....</td>  </tr>
+                <tr><td> <img src=".\img\img.3.png"height="20" width="20">我校第六届大学生心理健康教育宣传月活动圆..</td>  </tr>
+                <tr><td> <img src=".\img\img.3.png"height="20" width="20">我校第六届大学生心理健康教育宣传月开幕..</td>  </tr>
+                <tr><td> <img src=".\img\img.3.png"height="20" width="20">2010-2011学年第二学期心理咨询时...</td>  </tr>
+                <tr><td> <img src=".\img\img.3.png"height="20" width="20">我校2010级新生心理测评工作圆满结束</td>  </tr>
                 <tr><td><pre>   </pre></td></tr>
                 <tr><td><pre>   </pre></td></tr>
         </table>
@@ -67,24 +67,24 @@
      <td>
   <table>
             <tr><td><font color="#40b32e">心理常识 更多 >>></font><HR align=left width=350 color=black SIZE=1></td></tr>
-            <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20" >巧识心理抑郁</td>   </tr>
-            <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20">人生需要放弃的八样东西</td>  </tr>
-            <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20">心理健康十项标准</td>  </tr>
-            <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20">什么是心里情绪健康</td>  </tr>
-            <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20">人际交往应该避免的三个问题</td>  </tr>
-            <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20">测测你是否心理健康</td>  </tr>
+            <tr><td> <img src=".\img\img.3.png"height="20" width="20" >巧识心理抑郁</td>   </tr>
+            <tr><td> <img src=".\img\img.3.png"height="20" width="20">人生需要放弃的八样东西</td>  </tr>
+            <tr><td> <img src=".\img\img.3.png"height="20" width="20">心理健康十项标准</td>  </tr>
+            <tr><td> <img src=".\img\img.3.png"height="20" width="20">什么是心里情绪健康</td>  </tr>
+            <tr><td> <img src=".\img\img.3.png"height="20" width="20">人际交往应该避免的三个问题</td>  </tr>
+            <tr><td> <img src=".\img\img.3.png"height="20" width="20">测测你是否心理健康</td>  </tr>
    </table>  
 
    <!-- 第2列 -->
    <td >
 <table >
              <tr><td><font color="#40b32e">心理调节 更多 >>></font><HR align=left width=350 color=black SIZE=1></td></tr>
-             <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20" >运动法助你解压</td>   </tr>
-             <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20">自我心理调节的方法</td>  </tr>
-             <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20">维持心理平衡10要诀</td>  </tr>
-             <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20">7种心理缺陷运动治疗法</td>  </tr>
-             <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20">群体阶段性的心理调节</td>  </tr>
-             <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20">自我心理调节的7中方法</td>  </tr>   
+             <tr><td> <img src=".\img\img.3.png"height="20" width="20" >运动法助你解压</td>   </tr>
+             <tr><td> <img src=".\img\img.3.png"height="20" width="20">自我心理调节的方法</td>  </tr>
+             <tr><td> <img src=".\img\img.3.png"height="20" width="20">维持心理平衡10要诀</td>  </tr>
+             <tr><td> <img src=".\img\img.3.png"height="20" width="20">7种心理缺陷运动治疗法</td>  </tr>
+             <tr><td> <img src=".\img\img.3.png"height="20" width="20">群体阶段性的心理调节</td>  </tr>
+             <tr><td> <img src=".\img\img.3.png"height="20" width="20">自我心理调节的7中方法</td>  </tr>   
  </table>
   </td>      
 
@@ -93,13 +93,13 @@
  <table >
         <tr><td><pre></pre></td></tr>
       <tr><td><font color="#40b32e">中心概况 更多 >>></font><HR align=left width=350 color=black SIZE=1></td></tr>
-                 <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20" >大学生心理健康教育与咨询中心简介</td>   </tr>
-                 <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20">大学生心理健康教育与咨询中心职责</td>  </tr>
-                 <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20">河南中医学院大学生心理咨询师简介</td>  </tr>
-                 <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20">河南中医学院大学生心理咨询师岗位职责</td>  </tr>
-                 <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20">来访者须知</td>  </tr>
-                 <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20">团体心理咨询室守则</td>  </tr>  
-                 <tr><td> <img src="D:\心理咨询\img\img.3.png"height="20" width="20">团体心理辅导</td>  </tr> 
+                 <tr><td> <img src=".\img\img.3.png"height="20" width="20" >大学生心理健康教育与咨询中心简介</td>   </tr>
+                 <tr><td> <img src=".\img\img.3.png"height="20" width="20">大学生心理健康教育与咨询中心职责</td>  </tr>
+                 <tr><td> <img src=".\img\img.3.png"height="20" width="20">河南中医学院大学生心理咨询师简介</td>  </tr>
+                 <tr><td> <img src=".\img\img.3.png"height="20" width="20">河南中医学院大学生心理咨询师岗位职责</td>  </tr>
+                 <tr><td> <img src=".\img\img.3.png"height="20" width="20">来访者须知</td>  </tr>
+                 <tr><td> <img src=".\img\img.3.png"height="20" width="20">团体心理咨询室守则</td>  </tr>  
+                 <tr><td> <img src=".\img\img.3.png"height="20" width="20">团体心理辅导</td>  </tr> 
                 
 </table> 
 </td> 
@@ -121,6 +121,7 @@
            <tr> <td> <pre>           </pre></td> </tr>
            
 </td></tr>
+
 
 
     </table>      
