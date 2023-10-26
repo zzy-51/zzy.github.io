@@ -1,11 +1,11 @@
 # zzy.github.io
-个人网站
+
 <!DOCTYPE html>
 <html >
 
 <head>
     <meta charset="UTF-8">
-    <title>心理咨询首页</title>
+  
 </head>
 
 <body bgcolor="#c2e7f0" >
